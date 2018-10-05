@@ -32,7 +32,7 @@ Utöver detta kan vi titta på stöd för offline-arbete och hur local storage k
 [1]: http://backbonejs.org/ "Backbone.js officiella webplats med dokumentation"
 [2]: http://underscorejs.org/ "Underscores officiella webplats med dokumentation"
 [3]: http://requirejs.org/ "Require.js officiella webplats med dokumentation"
-[4]: http://pivotal.github.com/jasmine/ "En introduktion till testramverket Jasmine"
+[4]: https://jasmine.github.io/ "En introduktion till testramverket Jasmine"
 [5]: http://twitter.github.com/bootstrap/ "Twitter Bootstrap är ett hjälpmedel för front end utveckling"
 [6]: http://jquery.com "jQuery är ett bibliotek med genvägar till att manipulera DOM-strukturen"
 [7]: https://docs.google.com/document/d/1JL0SXpobb4EvMf17dBEV2Q8Tw7jC8qz2w-tM4-rio0I/edit "Vision och lite annat smått och gott beträffande applikationen"
